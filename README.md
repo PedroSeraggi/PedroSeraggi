@@ -22,9 +22,7 @@ You can click the Preview link to take a look at your changes.
 ## Interesses principais em:
 
 [![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/Pedroseraggi/)
-
 [![Java](https://img.shields.io/badge/-Java-Red?style=flat-square&logo=Java&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/PedroSeraggi/)
-
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/PedroSeraggi/)
 ---
 
