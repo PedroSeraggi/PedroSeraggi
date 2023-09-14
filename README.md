@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ## Hello Word! 👋
 
 - 👋 Olá, sou @PedroSeraggi
-- 🌱 Atualmente sou aluno da FATEC | Desenvolvedor Back-End
+- 🌱 Atualmente sou aluno da FATEC | Desenvolvedor Back-End e Front-End
 - 📫 pedroseraggi09@gmail.com | pedrofseraggi@gmail.com
 
 
