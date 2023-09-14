@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Olá, sou @PedroSeraggi
 - 🌱 Atualmente sou aluno da FATEC | Desenvolvedor Back-End
-- 📫 pedroseraggi09@gmail.com | pedroseraggi09@hotmail.com
+- 📫 pedroseraggi09@gmail.com | pedrofseraggi@gmail.com
 
 
 ## Interesses principais em:
